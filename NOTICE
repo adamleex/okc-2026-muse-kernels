@@ -1,0 +1,17 @@
+okc-2026-muse-kernels
+Copyright 2026 adamleex (Adam Li)
+
+This repository contains the final Open Kernel Challenge (Muse Spark, 2026) submissions of team adamleex.
+Submissions are licensed under the Apache License 2.0 (see LICENSE).
+
+The files include or derive from the following third-party work. Each file's header names its sources and keeps
+their notices:
+
+- vjeux/okc-2026 (https://github.com/vjeux/okc-2026), Apache-2.0. Portions Copyright vjeux.
+- alygg77/okc-muse-spark-kernels (https://github.com/alygg77/okc-muse-spark-kernels), Apache-2.0.
+- keell0renz/muse-open-kernel-challenge (https://github.com/keell0renz/muse-open-kernel-challenge), Apache-2.0
+  (ideas and code credited in muse_decode_layer.py and muse_moe_w4a16.py).
+- ZhimaoL/sglang (okc branches), Apache-2.0 (prefill attention code credited in muse_prefill_layer.py).
+- NathenFernandes/muse-bf16-proj (https://github.com/NathenFernandes/muse-bf16-proj), MIT License
+  (license text retained in muse_bf16_proj.py).
+- Matsvei ('matvey') on agents.kernarc.com, contributions submitted under Apache-2.0 (notices retained in the files).
